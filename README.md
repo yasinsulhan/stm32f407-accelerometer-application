@@ -4,3 +4,4 @@ Notice that, **the comminication between stm32f407 and COM port in the PC is pro
 
 The designed application using MATLAB GUI shows the x, y and z axis variable in real time graph and text. Also, the available COM port can be chosen using popup menu upper left-hand corner. Then the comminication is started if the COM port is available.
 
+![arayüz](https://github.com/yasinsulhan/stm32f407-accelerometer-application/assets/109728194/9a336c84-8a6a-492e-acd0-0f6536810507)
